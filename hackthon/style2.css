@@ -1,0 +1,58 @@
+.exp{
+    
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.headin{
+   
+    width: 100%;
+    height: 20%;
+
+}
+.my{
+    text-align: center;
+    font-size: 50px;
+}
+.data{
+    
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+}
+.left3{
+   
+    width: 50%;
+    height: 100%;
+}
+.right3{
+   
+    width: 50%;
+    height: 100%;
+    margin-left: 50px;
+}
+.divso{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.divist{
+    margin-left: 80px;
+}
+.divst{
+    margin-left: 80px;
+}
+.strong1{
+    color: yellowgreen;
+    font-size: 20px;
+}
+.strong2{
+    color: yellowgreen;
+    font-size: 20px;
+}
+.stron3{
+    color: yellowgreen;
+    font-size: 20px;
+}
