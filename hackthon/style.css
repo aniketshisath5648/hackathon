@@ -1,0 +1,77 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.home{
+    
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.nav{
+   background-color: blueviolet;
+    width: 100%;
+    height: 10%;
+
+
+}
+.ui{
+  
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.heading{
+  
+    width: 33%;
+    height: 100%;
+}
+.image{
+   
+    width: 33%;
+    height: 100%;
+}
+.foot{
+   
+    width: 33%;
+    height: 100%;
+}
+.head1{
+   margin-left: 20%;
+   font-size: 80px;
+
+}
+.email{
+ 
+    margin-top: 40%;
+    margin-left: 20%;
+}
+.head2{
+    font-size: medium;
+  margin-top: 30%;
+  margin-left: 20%;
+}
+.ten{
+    font-size: 40px;
+}
+.para{
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: medium;
+}
+.para2{
+   text-align: center;
+   margin-top: 80%;
+   margin-left: 20%;
+}
+.ri-tree-fill{
+    font-size: 60px;
+}
